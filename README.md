@@ -15,4 +15,4 @@ $ npm start
 
 ## Demo screen
 
-![Pagination Screen]("List of Todos with Dynamic Pagination")
+![Pagination Screen](https://github.com/connect2devendra/react-pagination/blob/master/public/screenshots/react-custom-pagination.jpeg "List of Todos with Dynamic Pagination")
